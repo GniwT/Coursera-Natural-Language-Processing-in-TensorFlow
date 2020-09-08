@@ -1,5 +1,5 @@
 # DeepLearning.AI TensorFlow Developer Professional Certificate
-## Convolutional Neural Networks in TensorFlow
+## Natural Language Processing Tensorflow
 ### by Coursera and  deeplearning.ai
 This is my notes and assignment for the Coursera: [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow). I completed the [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice). The specialization program covers Convolutional networks, RNNs, LSTM, Relu, Dropout, and more. I built the models of image regconition, housing prices prediction, natural language processing, and more. The assignments are built in Python and in TensorFlow. I created this repositories for the people who are interested in deep learning.
 
@@ -35,6 +35,7 @@ The [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.
 - Explore the loss function 
 - Build LTSM and other sequence models
 - Generate fake Shakepearean Texts
+
 [My certificate](https://coursera.org/share/5490027f15b8f37ff1519f45d4779f79)
 
 **Course 4: [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)**
